@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">시 목록</string>
+
+    <string name="title1">별 헤는 밤</string>
+    <string name="author1">윤동주</string>
+    <string name="body1">
+        계절이 지나가는 하늘에는
+        가을로 가득 차 있습니다.
+        나는 아무 걱정도 없이
+        가을 속의 별들을 다 헤일 듯 합니다.
+    </string>
+
+    <string name="title2">가지 않은 길</string>
+    <string name="author2">로버트 프로스트</string>
+    <string name="body2">
+        단풍 든 숲 속에 두 갈래 길이 있었습니다.
+        한 모이 두 길을 가지 못하기에
+        탄식하며 한참을 서서
+        낮은 수풀로 꺾여 내려가는 길을
+        멀리 바라보았습니다.
+    </string>
+
+    <string name="title3">애국가</string>
+    <string name="author3">안익태</string>
+    <string name="body3">
+        동해물과 백두산이 마르고 닳도록
+        하느님이 보우하사 우리나라 만세
+        무궁화 삼천리 화려강산
+        대한사람 대한으로 우리기상일세
+    </string>
+
+    <string name="title4">진달래꽃</string>
+    <string name="author4">마야</string>
+    <string name="body4">
+        나보기가 역겨워 가실때에는
+        말없이 고이보내 드리오리다
+        영변에 약산 진달래꽃
+        아름따다 가실 길에 뿌리오리다
+    </string>
+
+    <string name="title5">꼬까신</string>
+    <string name="author5">작자미상</string>
+    <string name="body5">
+        개나리 노오란 꽃그늘 아래
+        가지런히 놓여있는 꽃까신 하나
+        아기는 사알짝 신 벗어 놓고
+    </string>
+
+</resources>
